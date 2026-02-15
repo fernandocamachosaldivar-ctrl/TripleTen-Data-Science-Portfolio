@@ -33,6 +33,8 @@ simulacion del trabajo para la tienda online Ice que vende videojuegos por todo 
 *   Análisis de correlación entre variables.
 *   Creación de histogramas y diagramas de dispersión para visualizar tendencias.
 
+  ![Gráfica del análisis]https://github.com/fernandocamachosaldivar-ctrl/TripleTen-Data-Science-Portfolio/blob/main/Sprint%206/Screenshot%202026-02-14%20195514.png
+
 **💡 Conclusiones:**
 Resumen del proyecto
 Se realizo este proyecto para poder hacer un analisis sobre los patrones y tendencias que hay en el mercado de videojuegos para poder tomar decisiones para el proximo 2017. Se realizo un proceso de limpieza para poder tener los datos listos, se realizo un analisis para conocer el ciclo de vida de las consolas, la popularidad de los generos, el impacto de los criticos expertos y de igual forma la region, se hicieron dos hipotensis basandose en los resultados y se comprobaron las mismas
@@ -57,6 +59,7 @@ El modelo ayudará a optimizar la producción y a eliminar los parámetros no re
 *   División de datos en conjuntos de entrenamiento y prueba.
 *   Entrenamiento de modelos: Árbol de Decisión, Bosque Aleatorio y Regresión Logística.
 
+  ![Gráfica del análisis]https://github.com/fernandocamachosaldivar-ctrl/TripleTen-Data-Science-Portfolio/blob/main/Sprint%2013/Screenshot%202026-02-14%20195248.png
 **💡 Conclusiones:**
 El resumen de los modelos de validacion:
 
