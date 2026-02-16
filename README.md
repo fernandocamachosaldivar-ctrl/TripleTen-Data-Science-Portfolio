@@ -29,5 +29,5 @@ Bienvenido a mi colección de proyectos realizados durante el bootcamp de Data S
 
 ---
 ### 📬 Contacto
-*   **LinkedIn:** [Tu Link de LinkedIn Aquí]
-*   **Email:** [Tu Email Aquí]
+*   **LinkedIn:** linkedin.com/in/luis-fernando-camacho-saldivar-192508b0
+*   **Email:** fernandocamacho.saldivar@gmail.com
