@@ -12,7 +12,7 @@ Welcome to my collection of projects completed during the TripleTen Data Science
 *   **Key Results:** Achieved an **AUC-ROC of 0.9001**, delivering actionable recommendations to reduce customer turnover and optimize marketing spend.
 *   **[View Code & Report] https://github.com/fernandocamachosaldivar-ctrl/TripleTen-Data-Science-Portfolio/tree/main/Sprint%2019**
 
-### 1. Vehicle Market Analysis (Sprint 6)
+### 2. Vehicle Market Analysis (Sprint 6)
 **Objective:** To determine which factors most influence the selling price of a used vehicle.
 
 * **Technologies:** Python, Pandas, Matplotlib, Exploratory Data Analysis (EDA).
@@ -21,7 +21,7 @@ Welcome to my collection of projects completed during the TripleTen Data Science
 
 * **View code:** https://github.com/fernandocamachosaldivar-ctrl/TripleTen-Data-Science-Portfolio/blob/main/Sprint%206/Sprint_6_Proyecto_1.ipynb
 
-### 2. Customer Churn Prediction (Sprint 13)
+### 3. Customer Churn Prediction (Sprint 13)
 **Objective:** To develop a Machine Learning model to predict whether a customer will churn.
 
 * **Technologies:** Scikit-Learn, Logistic Regression, Random Forests, Class Balancing.
@@ -46,6 +46,11 @@ Welcome to my collection of projects completed during the TripleTen Data Science
 | **12-14** | Supervised Machine Learning** | Sklearn, Decision Trees |
 
 **15-19** | Advanced Machine Learning and Computer Vision | Keras, TensorFlow |
+
+## 🛠️ Technical Skills
+*   **Languages:** Python (Pandas, NumPy, Scikit-learn, CatBoost, XGBoost), SQL.
+*   **Methods:** Supervised Learning (Classification, Regression), Feature Engineering, A/B Testing, EDA.
+*   **Tools:** Jupyter Notebook, Git, GitHub, Excel (Advanced)
 
 ---
 ### 📬 Contact
