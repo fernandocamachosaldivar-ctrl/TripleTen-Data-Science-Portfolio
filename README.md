@@ -1,33 +1,45 @@
-# 📊 Portafolio de Data Science - Luis Fernando Camacho
+# 📊 Data Science Portfolio - Luis Fernando Camacho
 
-Bienvenido a mi colección de proyectos realizados durante el bootcamp de Data Science de TripleTen. Aquí documento mi proceso de aprendizaje desde Python básico hasta Machine Learning avanzado.
+Welcome to my collection of projects completed during the TripleTen Data Science bootcamp. Here I document my learning process, from basic Python to advanced Machine Learning.
 
-## 🚀 Proyectos Destacados (Top Projects)
+## 🚀 Featured Projects (Top Projects)
 
-### 1. Análisis de Mercado de Vehículos (Sprint 6)
-**Objetivo:** Determinar qué factores influyen más en el precio de venta de un vehículo usado.
-*   **Tecnologías:** Python, Pandas, Matplotlib, Análisis Exploratorio de Datos (EDA).
-*   **Resultados:** Se identificó que la edad del vehículo y el kilometraje son los predictores más fuertes del precio, descartando variables como el color.
-*   **Ver código:** https://github.com/fernandocamachosaldivar-ctrl/TripleTen-Data-Science-Portfolio/blob/main/Sprint%206/Sprint_6_Proyecto_1.ipynb
+### 1. Vehicle Market Analysis (Sprint 6)
+**Objective:** To determine which factors most influence the selling price of a used vehicle.
 
-### 2. Predicción de Cancelación de Clientes (Sprint 13)
-**Objetivo:** Desarrollar un modelo de Machine Learning para predecir si un cliente abandonará la empresa (Churn).
-*   **Tecnologías:** Scikit-Learn, Regresión Logística, Bosques Aleatorios, Balanceo de clases.
-*   **Resultados:** Se logró un modelo con un F1-Score satisfactorio, permitiendo a la empresa tomar acciones preventivas con clientes en riesgo.
-*   **Ver código:** https://github.com/fernandocamachosaldivar-ctrl/TripleTen-Data-Science-Portfolio/blob/main/Sprint%2013/Sprint_13_Proyecto_minas_oro.ipynb
+* **Technologies:** Python, Pandas, Matplotlib, Exploratory Data Analysis (EDA).
+
+* **Results:** The vehicle's age and mileage were identified as the strongest predictors of price, ruling out variables such as color.
+
+* **View code:** https://github.com/fernandocamachosaldivar-ctrl/TripleTen-Data-Science-Portfolio/blob/main/Sprint%206/Sprint_6_Proyecto_1.ipynb
+
+### 2. Customer Churn Prediction (Sprint 13)
+**Objective:** To develop a Machine Learning model to predict whether a customer will churn.
+
+* **Technologies:** Scikit-Learn, Logistic Regression, Random Forests, Class Balancing.
+
+* **Results:** A model with a satisfactory F1 score was achieved, allowing the company to take preventative action with at-risk customers.
+
+* * **View code:** https://github.com/fernandocamachosaldivar-ctrl/TripleTen-Data-Science-Portfolio/blob/main/Sprint%2013/Sprint_13_Proyecto_minas_oro.ipynb
 
 ---
 
-## 📂 Índice Completo de Sprints
-| Sprint | Tema Principal | Tecnologías |
+## 📂 Complete Sprint Index
+| Sprint | Main Topic | Technologies |
+
 | :--- | :--- | :--- |
-| **01-05** | Python Básico y Preprocesamiento | Pandas, Numpy |
-| **06** | **Análisis Exploratorio (EDA)** | Histograms, Scatterplots |
-| **07-11** | SQL y Análisis Estadístico | PostgreSQL, Scipy |
-| **12-14** | **Machine Learning Supervisado** | Sklearn, Decision Trees |
-| **15-19** | ML Avanzado y Computer Vision | Keras, TensorFlow |
+
+| **01-05** | Basic Python and Preprocessing | Pandas, NumPy |
+
+| **06** | Exploratory Data Analysis (EDA)** | Histograms, Scatterplots |
+
+| **07-11** | SQL and Statistical Analysis | PostgreSQL, SciPy |
+
+| **12-14** | Supervised Machine Learning** | Sklearn, Decision Trees |
+
+**15-19** | Advanced Machine Learning and Computer Vision | Keras, TensorFlow |
 
 ---
-### 📬 Contacto
-*   **LinkedIn:** linkedin.com/in/luis-fernando-camacho-saldivar-192508b0
-*   **Email:** fernandocamacho.saldivar@gmail.com
+### 📬 Contact
+* **LinkedIn:** linkedin.com/in/luis-fernando-camacho-saldivar-192508b0
+* **Email:** fernandocamacho.saldivar@gmail.com
