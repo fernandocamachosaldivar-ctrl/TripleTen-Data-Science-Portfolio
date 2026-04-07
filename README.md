@@ -4,6 +4,14 @@ Welcome to my collection of projects completed during the TripleTen Data Science
 
 ## 🚀 Featured Projects (Top Projects)
 
+### 🥇 1. Final Project: Business Strategy & Churn Prediction (Sprint 19)
+**Objective:** To provide a comprehensive solution for a telecommunications operator by predicting customer churn and identifying key cancellation drivers.
+
+*   **Business Impact:** Developed an end-to-end pipeline including a detailed **Work Plan**, **Predictive Modeling**, and a **Final Solution Report** for stakeholders.
+*   **Technologies:** Python, CatBoost, XGBoost, SQL, Feature Engineering, Hyperparameter Tuning (GridSearchCV).
+*   **Key Results:** Achieved an **AUC-ROC of 0.9001**, delivering actionable recommendations to reduce customer turnover and optimize marketing spend.
+*   **[View Code & Report] https://github.com/fernandocamachosaldivar-ctrl/TripleTen-Data-Science-Portfolio/tree/main/Sprint%2019**
+
 ### 1. Vehicle Market Analysis (Sprint 6)
 **Objective:** To determine which factors most influence the selling price of a used vehicle.
 
@@ -21,6 +29,8 @@ Welcome to my collection of projects completed during the TripleTen Data Science
 * **Results:** A model with a satisfactory F1 score was achieved, allowing the company to take preventative action with at-risk customers.
 
 * * **View code:** https://github.com/fernandocamachosaldivar-ctrl/TripleTen-Data-Science-Portfolio/blob/main/Sprint%2013/Sprint_13_Proyecto_minas_oro.ipynb
+ 
+
 
 ---
 
@@ -39,5 +49,5 @@ Welcome to my collection of projects completed during the TripleTen Data Science
 
 ---
 ### 📬 Contact
-* **LinkedIn:** linkedin.com/in/luis-fernando-camacho-saldivar-192508b0
+* **LinkedIn:** linkedin.com/in/lcamacho-ds-ae
 * **Email:** fernandocamacho.saldivar@gmail.com
