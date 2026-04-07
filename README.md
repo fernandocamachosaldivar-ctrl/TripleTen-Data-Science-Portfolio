@@ -27,8 +27,6 @@ Welcome to my collection of projects completed during the TripleTen Data Science
 ## 📂 Complete Sprint Index
 | Sprint | Main Topic | Technologies |
 
-| :--- | :--- | :--- |
-
 | **01-05** | Basic Python and Preprocessing | Pandas, NumPy |
 
 | **06** | Exploratory Data Analysis (EDA)** | Histograms, Scatterplots |
